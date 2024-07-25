@@ -147,7 +147,7 @@ select {
 }
 
 .productoEnCarrito {
-  border-left: 5px solid lightblue;
+  border-left: 5px solid rgb(7, 35, 44);
   border-bottom-left-radius: 3px;
   border-top-left-radius: 3px;
   margin: 5px 0;
