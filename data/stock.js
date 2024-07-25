@@ -6,7 +6,7 @@ const productos =
         tipo: "buzo",
         bio: "Un buzo que re va con vos",
         precio: 158000,
-        imagen: '.../public/images/jordan_2.webp',
+        imagen: './public/images/jordan_2.webp',
         cantidad:1
     },
 
@@ -16,7 +16,7 @@ const productos =
         tipo: "remera",
         bio: "Una remera que re va con vos",
         precio: 160000,
-        imagen: '.../public/images/jordan_3.webp',
+        imagen: './public/images/jordan_3.webp',
         cantidad:1
     },
 
@@ -26,7 +26,7 @@ const productos =
         tipo: "camisa",
         bio: "Una camisa que re va con vos",
         precio: 150000,
-        imagen: '.../public/images/jordan_4.webp',
+        imagen: './public/images/jordan_4.webp',
         cantidad:1
     },
     
