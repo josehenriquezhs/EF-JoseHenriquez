@@ -5,7 +5,7 @@ const productos =
         nombre: "Jordan air 1 OG",
         tipo: "Zapatillas 0",
         bio: "Jordan air 1 OG quedan pocas",
-        imagen: '/public/images/jordan_2.webp',
+        imagen:'/public/images/jordan_2.webp',
         precio: 170000,
         cantidad: 1
     },
@@ -15,7 +15,7 @@ const productos =
         nombre: "Jordan 11 OG",
         tipo: "Zpatillas 1",
         bio: "Jordan 11 Og del momento",
-        imagen: '/public/images/jordan_3.webp',
+        imagen:'/public/images/jordan_3.webp',
         precio: 160000,
         cantidad: 1
     },
@@ -25,7 +25,7 @@ const productos =
         nombre: "Jordan 4 Retro",
         tipo: "Zapatillas 2",
         bio: "Jordan 4 Retro buenas para el verano",
-        imagen: '/public/images/jordan_4.webp',
+        imagen:'./public/images/jordan_4.webp',
         precio: 150000,
         cantidad: 1
     },
